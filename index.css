@@ -397,6 +397,7 @@ nav ul li a:hover::after {
     align-items: center;
     padding-top: 50px;
     gap: 50px;
+    margin: 100px 0;
 }
 
 .Our-service-container {
@@ -404,7 +405,7 @@ nav ul li a:hover::after {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 1.5em;
+    gap: 100px;
 }
 
 .Our-service-container div {
@@ -473,7 +474,6 @@ p {
 } */
 
 .cont{
-    width: 70%;
     display: flex;
     justify-content: space-around;
 }
@@ -485,17 +485,13 @@ width: 100%;
     align-items: center;
 }
 
-/* .hero-text,
-.left-img {
-    max-width: 450px;
-    margin: auto;
-} */
 
-/* 
-img {
-    max-width: 60vmin;
+
+
+.content img {
+    width: 300px;
     border-radius: 25px;
     border: 2px solid gold;
-} */
+} 
 
 /* <!-- ------------------end-Sample-work----------- --> */
